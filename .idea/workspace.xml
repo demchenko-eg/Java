@@ -53,7 +53,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
       </set>
     </attachedChunks>
   </component>
@@ -69,6 +68,9 @@
       <workItem from="1758383855995" duration="11000" />
       <workItem from="1759155791246" duration="738000" />
       <workItem from="1759470457095" duration="5062000" />
+      <workItem from="1762032739625" duration="6000" />
+      <workItem from="1762813221891" duration="3000" />
+      <workItem from="1762813243359" duration="3000" />
     </task>
     <servers />
   </component>
